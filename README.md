@@ -2,8 +2,8 @@
 
 ![GwehShort](./misc/Banner.png)
 
-# GwehShort by [Gweh Shorties](../)
+# GwehShort by [Gweh Shorties](../../../)
 
-**👋 Welcome to the community repository for GwehShort, sebuah shortlink punya [Gweh](../)**
+**👋 Welcome to the community repository for GwehShort, sebuah shortlink punya [Gweh](../../../)**
 
 </div>
